@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import skm_image from "../../assets/skm_image.jpg"
+import skm_image from "../../assets/about_image.jpg"
 import background from "../../assets/download.svg"
 
 function About() {

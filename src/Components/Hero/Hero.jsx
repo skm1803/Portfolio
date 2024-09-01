@@ -1,4 +1,4 @@
-import skm_image from "../../assets/skm_image.jpg"
+import skm_image from "../../assets/hero_image.jpg"
 import "./Hero.css"
 const Hero = () => {
     return (
